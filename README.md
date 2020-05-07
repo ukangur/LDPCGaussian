@@ -44,4 +44,4 @@ An example output would be:
 
 ---
 
-For any additional questions please contact the author (owner of repository).
+You can find different input examples in the folder "example inputs". These inputs were also used to measure the speed of the algorithm. For any additional questions please contact the author (owner of repository).
